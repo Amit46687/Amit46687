@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amit 
 - 👀 I’m interested in making website front and back 
-- 🌱 I’m currently learning full stack web developer
+- 🌱 I’m trying to learning new things
 - 📫 How to reach me you can check out my Personal Portfolio Hereisamit.com
 
 <!---
